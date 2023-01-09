@@ -1,8 +1,7 @@
  <center>
     <div>
-        <img src="assets/photo.jpg" style="float:right" width="120" height="150"/>
-		<b><font size = 5>Haoran Wang</font></b><br>
-		<span style="font-size:18px">&#x1F4DE;</span>(+86) 180-5106-7822 | <span style="font-size:18px">&#x1F4E7;</span><a href="mailto:ycshi2018@gmail.com">william.haoran.wang@outlook.com</a> | Suchow University<br>
+	<b><font size = 5>Haoran Wang</font></b><br>
+	<span style="font-size:18px">&#x1F4DE;</span>(+86) 180-5106-7822 | <span style="font-size:18px">&#x1F4E7;</span><a href="mailto:ycshi2018@gmail.com">william.haoran.wang@outlook.com</a> | Suchow University<br>
 	 </div>
 </center>
 
